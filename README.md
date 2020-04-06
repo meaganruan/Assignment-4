@@ -18,6 +18,9 @@ I created an ArrayList<String> to hold my years.
   Created a second loop to count how many of each year there are.
   
 DATA VISUALIZATION (EXTRA CREDIT):
+
+link to code: https://colab.research.google.com/drive/1Jk6RKLzpUgTdUvUJYNRAgz7sWZT5ZL__
+
 I used google's colaboratory in python to create the graphs using the movies.csv file.
 I imported pandas for the dataframe, numpy for math, and seaborn for data visualization. 
 Question for this dataset was: How many movies in the year 1995 and 2000 have 1 genre? 2? 3? ...etc.
